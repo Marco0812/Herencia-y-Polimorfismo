@@ -1,0 +1,1 @@
+DATABASE = "mongodb+srv://marcocastaneda081203_db_user:AOKKuAH6rXbsBdxs@cluster0.hcblaqt.mongodb.net/?appName=Cluster0"
